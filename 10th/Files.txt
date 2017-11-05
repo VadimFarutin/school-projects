@@ -1,0 +1,14 @@
+
+Z:\win\10th\t43f3d\t43f3d - nachalo raboti s glut
+
+Z:\win\10th\t44kr\t44kr - kontrol'naya
+
+Z:\win\10th\kr_2\kr_2 - kontrol'naya dop.zadanie
+
+Z:\win\10th\t45cyl\t45cyl - cylinder, sphere
+
+Z:\win\10th\t46scene\t46scene - last scene - upravlenie: d - uskorenie po chasovoy
+                                                         a - uskorenie protiv chasovoy
+                                                     space - ostanovka: esli u platformi - chelovek voydet/viydet
+                                                      j, l - kruchenie po Oz 
+                                                      i, k - kruchenie po Oy  

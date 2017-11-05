@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Other
+*.sln
+*.vcproj*
+*.vcxproj*
+*.suo
+*.ncb
+*.sdf
+*.DSK
+*.PRJ
+*.BAK
+*.huf
+.vs/
